@@ -1,0 +1,2572 @@
+[
+  {
+    "mp3_player": [
+      {
+        "id": "77c45ce7-3737-4b3f-9300-920c9b55e754",
+        "model": "X1",
+        "manufacturer": "Acoustic Audio",
+        "storage_capacity": 1783,
+        "battery_life": 32265,
+        "created_at": "2023-09-02T01:45:19.190Z",
+        "updated_at": "2023-09-01T16:12:21.183Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1b82f837-3647-43e8-b17a-23c53fbbbf30",
+        "model": "ProMusic",
+        "manufacturer": "Sonic Sound",
+        "storage_capacity": 69605,
+        "battery_life": 43441,
+        "created_at": "2023-09-01T17:42:12.333Z",
+        "updated_at": "2023-09-02T01:54:50.710Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "26c5e6dc-7288-4aeb-8bed-1f5f60b80635",
+        "model": "SoundWave",
+        "manufacturer": "MusicTech",
+        "storage_capacity": 49270,
+        "battery_life": 6255,
+        "created_at": "2023-09-01T14:17:19.516Z",
+        "updated_at": "2023-09-01T16:26:49.211Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "78d82647-b879-4362-9233-71911bd6398b",
+        "model": "AudioMax",
+        "manufacturer": "AudioPro",
+        "storage_capacity": 99833,
+        "battery_life": 41563,
+        "created_at": "2023-09-01T17:52:57.333Z",
+        "updated_at": "2023-09-01T17:04:47.695Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "442240ae-3f57-4705-b08b-c7a17b0e95fe",
+        "model": "BeatMaster",
+        "manufacturer": "BeatBox",
+        "storage_capacity": 77647,
+        "battery_life": 73962,
+        "created_at": "2023-09-01T22:52:18.726Z",
+        "updated_at": "2023-09-01T11:53:16.244Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "48bc65de-8ca5-4db9-891f-1df76305c876",
+        "title": "The Journey Begins",
+        "duration": 64755,
+        "genre": "Pop",
+        "release_date": "2023-09-01T07:52:45.742Z",
+        "created_at": "2023-09-01T20:47:01.592Z",
+        "updated_at": "2023-09-01T19:27:53.991Z",
+        "mp3_player_id": "26c5e6dc-7288-4aeb-8bed-1f5f60b80635"
+      },
+      {
+        "id": "c114a53e-7f4d-4403-80fa-8886b26ba3fc",
+        "title": "Rhythm of the Night",
+        "duration": 60990,
+        "genre": "Rock",
+        "release_date": "2023-09-01T18:52:55.824Z",
+        "created_at": "2023-09-01T15:19:37.463Z",
+        "updated_at": "2023-09-01T04:59:19.974Z",
+        "mp3_player_id": "78d82647-b879-4362-9233-71911bd6398b"
+      },
+      {
+        "id": "1ba810a6-3c15-4596-a154-7fb5cea72ca4",
+        "title": "Melodies of Love",
+        "duration": 16033,
+        "genre": "R&B",
+        "release_date": "2023-09-01T06:50:22.581Z",
+        "created_at": "2023-09-02T01:04:25.001Z",
+        "updated_at": "2023-09-01T08:52:10.362Z",
+        "mp3_player_id": "1b82f837-3647-43e8-b17a-23c53fbbbf30"
+      },
+      {
+        "id": "77bcec58-61bc-44f3-ba2c-909ea03db9d8",
+        "title": "Dreams and Desires",
+        "duration": 44441,
+        "genre": "Electronic",
+        "release_date": "2023-09-01T19:56:03.561Z",
+        "created_at": "2023-09-01T15:08:36.251Z",
+        "updated_at": "2023-09-01T21:29:12.001Z",
+        "mp3_player_id": "77c45ce7-3737-4b3f-9300-920c9b55e754"
+      },
+      {
+        "id": "d8390f1c-b33b-4661-af98-00cb70810d99",
+        "title": "Echoes of Eternity",
+        "duration": 25679,
+        "genre": "Country",
+        "release_date": "2023-09-02T00:41:05.379Z",
+        "created_at": "2023-09-01T12:19:19.381Z",
+        "updated_at": "2023-09-01T09:54:59.633Z",
+        "mp3_player_id": "26c5e6dc-7288-4aeb-8bed-1f5f60b80635"
+      }
+    ],
+    "collection": [
+      {
+        "id": "4d143bb5-99c3-4f33-b3e1-8eeea217fc58",
+        "name": "Best of 90s",
+        "creation_date": "2023-09-01T15:27:41.714Z",
+        "last_updated": "2023-09-01T08:54:48.949Z",
+        "total_songs": 35818,
+        "created_at": "2023-09-01T09:02:57.701Z",
+        "updated_at": "2023-09-01T17:15:36.757Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6cea7b03-4058-4a6a-a535-27e915e246ac",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-02T02:30:27.394Z",
+        "last_updated": "2023-09-01T09:56:49.502Z",
+        "total_songs": 40280,
+        "created_at": "2023-09-01T23:11:14.476Z",
+        "updated_at": "2023-09-02T03:05:29.763Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3eabe14b-bd36-4fb7-b2cd-54093f8dc256",
+        "name": "Summer Hits",
+        "creation_date": "2023-09-01T21:19:31.142Z",
+        "last_updated": "2023-09-01T12:56:38.372Z",
+        "total_songs": 71953,
+        "created_at": "2023-09-01T08:21:54.974Z",
+        "updated_at": "2023-09-01T11:35:42.186Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a722e68f-564f-47ab-858e-84b647146593",
+        "name": "Road Trip Mix",
+        "creation_date": "2023-09-01T09:47:43.908Z",
+        "last_updated": "2023-09-01T17:29:45.465Z",
+        "total_songs": 55231,
+        "created_at": "2023-09-01T07:03:58.118Z",
+        "updated_at": "2023-09-02T02:32:23.515Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "af9cad28-8d13-4f6a-8d14-5d9e64abada8",
+        "name": "Feel Good Classics",
+        "creation_date": "2023-09-01T11:52:05.909Z",
+        "last_updated": "2023-09-02T03:17:14.464Z",
+        "total_songs": 72627,
+        "created_at": "2023-09-01T17:06:57.966Z",
+        "updated_at": "2023-09-02T02:31:30.790Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "291fed4b-42e8-4a5f-97a2-06dea7b00f70",
+        "name": "Sara Anderson",
+        "birth_date": "2023-09-01T12:49:09.743Z",
+        "genre": "Pop",
+        "debut_year": 37304,
+        "created_at": "2023-09-01T13:59:03.083Z",
+        "updated_at": "2023-09-01T17:24:44.116Z",
+        "song_id": "48bc65de-8ca5-4db9-891f-1df76305c876"
+      },
+      {
+        "id": "49e7b2a7-394c-4628-9ed4-2a52e1853f7c",
+        "name": "David Johnson",
+        "birth_date": "2023-09-01T14:33:37.216Z",
+        "genre": "Rock",
+        "debut_year": 47732,
+        "created_at": "2023-09-01T09:46:06.260Z",
+        "updated_at": "2023-09-01T21:17:34.928Z",
+        "song_id": "48bc65de-8ca5-4db9-891f-1df76305c876"
+      },
+      {
+        "id": "8627b1fd-fa89-4a2b-864c-948aae7261c4",
+        "name": "Emily Thompson",
+        "birth_date": "2023-09-02T02:08:06.433Z",
+        "genre": "Jazz",
+        "debut_year": 42406,
+        "created_at": "2023-09-01T17:59:49.631Z",
+        "updated_at": "2023-09-01T07:35:46.725Z",
+        "song_id": "77bcec58-61bc-44f3-ba2c-909ea03db9d8"
+      },
+      {
+        "id": "82dc159b-3b19-45d4-9902-42537fcc745f",
+        "name": "Michael Wilson",
+        "birth_date": "2023-09-01T15:30:42.478Z",
+        "genre": "Hip Hop",
+        "debut_year": 79799,
+        "created_at": "2023-09-01T20:26:18.586Z",
+        "updated_at": "2023-09-01T18:05:10.238Z",
+        "song_id": "1ba810a6-3c15-4596-a154-7fb5cea72ca4"
+      },
+      {
+        "id": "a1582442-4861-497a-920d-b90204a4793d",
+        "name": "Olivia Davis",
+        "birth_date": "2023-09-01T05:13:05.538Z",
+        "genre": "Indie",
+        "debut_year": 81088,
+        "created_at": "2023-09-01T06:56:31.236Z",
+        "updated_at": "2023-09-01T19:35:38.530Z",
+        "song_id": "d8390f1c-b33b-4661-af98-00cb70810d99"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "e86627d0-9d83-41bd-a989-3120476dd2d7",
+        "email": "Velda_Mante86@yahoo.com",
+        "firstName": "Megane",
+        "lastName": "Waters",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "64a354b0-770f-4f97-99f5-297325ff3add",
+        "email": "Tara92@yahoo.com",
+        "firstName": "Mellie",
+        "lastName": "Corkery",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67895971",
+        "tenantId": null
+      },
+      {
+        "reference": "e4abf62d-f528-475c-8a61-cb6507dcdb20",
+        "email": "Mikayla82@yahoo.com",
+        "firstName": "Jaren",
+        "lastName": "Homenick",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/407.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "56fc4eba-1eb7-4d76-a7c8-dabc42171f45",
+        "email": "Sister_Kessler87@gmail.com",
+        "firstName": "Thad",
+        "lastName": "Greenfelder",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/298.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "021d2c77-7e09-4a96-877e-31dd7cba3e90",
+        "email": "Yesenia_Padberg64@hotmail.com",
+        "firstName": "Glenna",
+        "lastName": "Mertz",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/94256550",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "ce596d2d-845c-45a6-b951-4f049a04ea8b",
+        "model": "Xtreme Beats",
+        "manufacturer": "ElectroSound",
+        "storage_capacity": 45397,
+        "battery_life": 36938,
+        "created_at": "2023-09-01T05:21:44.580Z",
+        "updated_at": "2023-09-01T19:04:53.667Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7552ad8c-aae8-482c-8ca6-ca98161121e2",
+        "model": "Melody Master",
+        "manufacturer": "Harmony Electronics",
+        "storage_capacity": 58650,
+        "battery_life": 8523,
+        "created_at": "2023-09-02T03:44:33.374Z",
+        "updated_at": "2023-09-01T22:33:45.661Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "88649826-93f8-4d6b-846d-d314634b5eed",
+        "model": "SoundWave Pro",
+        "manufacturer": "MusicTech",
+        "storage_capacity": 38168,
+        "battery_life": 33915,
+        "created_at": "2023-09-01T14:03:50.217Z",
+        "updated_at": "2023-09-02T00:54:08.794Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "8ac88dac-2e80-4a6e-b391-3f5da9498f3f",
+        "model": "RhythmX",
+        "manufacturer": "BeatBox Inc.",
+        "storage_capacity": 10803,
+        "battery_life": 63939,
+        "created_at": "2023-09-01T14:14:01.840Z",
+        "updated_at": "2023-09-01T19:25:48.490Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "043a8bc9-a250-4fd3-9ce7-9614750efb83",
+        "model": "AudioBliss",
+        "manufacturer": "Sonic Innovations",
+        "storage_capacity": 81152,
+        "battery_life": 3689,
+        "created_at": "2023-09-01T21:52:05.953Z",
+        "updated_at": "2023-09-01T16:13:33.346Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "e6f472f5-92c4-4e90-acd6-6ca31b7ab56e",
+        "title": "Sunset Serenade",
+        "duration": 19355,
+        "genre": "Pop",
+        "release_date": "2023-09-01T14:15:19.083Z",
+        "created_at": "2023-09-01T23:29:46.192Z",
+        "updated_at": "2023-09-01T17:29:09.556Z",
+        "mp3_player_id": "043a8bc9-a250-4fd3-9ce7-9614750efb83"
+      },
+      {
+        "id": "290fae8c-68da-4035-839c-3602d2b850ea",
+        "title": "Midnight Melodies",
+        "duration": 38065,
+        "genre": "Rock",
+        "release_date": "2023-09-01T18:16:46.743Z",
+        "created_at": "2023-09-02T02:43:34.784Z",
+        "updated_at": "2023-09-01T17:26:55.955Z",
+        "mp3_player_id": "ce596d2d-845c-45a6-b951-4f049a04ea8b"
+      },
+      {
+        "id": "9828ec81-7ebd-4e1a-8cc5-34d132245ad5",
+        "title": "Dreamscape",
+        "duration": 42899,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T18:14:06.465Z",
+        "created_at": "2023-09-01T20:46:04.965Z",
+        "updated_at": "2023-09-01T23:26:03.321Z",
+        "mp3_player_id": "ce596d2d-845c-45a6-b951-4f049a04ea8b"
+      },
+      {
+        "id": "da2b1db1-c987-4b90-9265-3323f32d4af1",
+        "title": "Eternal Echoes",
+        "duration": 58669,
+        "genre": "Electronic",
+        "release_date": "2023-09-02T03:34:36.417Z",
+        "created_at": "2023-09-01T12:39:29.747Z",
+        "updated_at": "2023-09-01T12:55:44.825Z",
+        "mp3_player_id": "7552ad8c-aae8-482c-8ca6-ca98161121e2"
+      },
+      {
+        "id": "225775f1-3afb-48cd-bf3e-2715f1ef884a",
+        "title": "Whispering Winds",
+        "duration": 4847,
+        "genre": "Classical",
+        "release_date": "2023-09-01T05:27:24.680Z",
+        "created_at": "2023-09-01T06:01:21.116Z",
+        "updated_at": "2023-09-01T12:10:52.470Z",
+        "mp3_player_id": "043a8bc9-a250-4fd3-9ce7-9614750efb83"
+      }
+    ],
+    "collection": [
+      {
+        "id": "adb7a4ec-110f-4177-9726-2ea0d54effec",
+        "name": "Best of 90s",
+        "creation_date": "2023-09-01T10:30:22.554Z",
+        "last_updated": "2023-09-01T14:56:05.812Z",
+        "total_songs": 15754,
+        "created_at": "2023-09-01T23:11:01.352Z",
+        "updated_at": "2023-09-01T20:19:30.636Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4f13f710-6ba2-4ae4-aa42-fe8606e6aae6",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-02T00:17:19.847Z",
+        "last_updated": "2023-09-01T09:53:36.531Z",
+        "total_songs": 20013,
+        "created_at": "2023-09-01T21:19:22.464Z",
+        "updated_at": "2023-09-01T22:49:03.424Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b0437373-3b24-4255-afb8-84217cd58530",
+        "name": "Road Trip Anthems",
+        "creation_date": "2023-09-01T16:27:06.387Z",
+        "last_updated": "2023-09-01T09:15:23.139Z",
+        "total_songs": 40331,
+        "created_at": "2023-09-01T16:23:05.292Z",
+        "updated_at": "2023-09-01T13:22:32.116Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3e2dc195-30fa-47e1-96cf-4319f26e475a",
+        "name": "Summer Hits",
+        "creation_date": "2023-09-01T09:19:41.846Z",
+        "last_updated": "2023-09-01T10:54:15.459Z",
+        "total_songs": 92598,
+        "created_at": "2023-09-01T20:07:43.749Z",
+        "updated_at": "2023-09-01T16:02:26.982Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1943dd1d-ea87-43fa-ada4-c6fa49bba54a",
+        "name": "Acoustic Sessions",
+        "creation_date": "2023-09-02T03:38:10.382Z",
+        "last_updated": "2023-09-01T17:30:41.351Z",
+        "total_songs": 10284,
+        "created_at": "2023-09-01T18:00:19.686Z",
+        "updated_at": "2023-09-01T19:54:14.343Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "59a35af1-f92a-4454-b866-d15e30b55375",
+        "name": "Serenity",
+        "birth_date": "2023-09-01T18:14:25.527Z",
+        "genre": "Indie",
+        "debut_year": 89342,
+        "created_at": "2023-09-01T14:14:17.917Z",
+        "updated_at": "2023-09-01T19:21:02.256Z",
+        "song_id": "e6f472f5-92c4-4e90-acd6-6ca31b7ab56e"
+      },
+      {
+        "id": "575b3c70-89b9-4bcb-a217-3ff76df8013f",
+        "name": "Echoes of Eternity",
+        "birth_date": "2023-09-01T06:46:26.766Z",
+        "genre": "Alternative",
+        "debut_year": 64134,
+        "created_at": "2023-09-01T19:54:39.682Z",
+        "updated_at": "2023-09-01T19:38:51.988Z",
+        "song_id": "da2b1db1-c987-4b90-9265-3323f32d4af1"
+      },
+      {
+        "id": "f8ad0e5b-a78e-402d-b2df-3181241ed799",
+        "name": "Harmony Collective",
+        "birth_date": "2023-09-01T07:52:32.286Z",
+        "genre": "Folk",
+        "debut_year": 25619,
+        "created_at": "2023-09-01T04:58:34.639Z",
+        "updated_at": "2023-09-01T07:53:29.622Z",
+        "song_id": "225775f1-3afb-48cd-bf3e-2715f1ef884a"
+      },
+      {
+        "id": "077d1967-2eb2-427b-9e15-4ae0aa9f5a1a",
+        "name": "Melodic Journey",
+        "birth_date": "2023-09-01T14:40:47.103Z",
+        "genre": "R&B",
+        "debut_year": 44584,
+        "created_at": "2023-09-01T14:27:43.399Z",
+        "updated_at": "2023-09-01T11:34:36.248Z",
+        "song_id": "225775f1-3afb-48cd-bf3e-2715f1ef884a"
+      },
+      {
+        "id": "5fe6cd99-ce21-478e-9fc6-23f467872709",
+        "name": "Rhythmic Beats",
+        "birth_date": "2023-09-01T04:35:27.137Z",
+        "genre": "EDM",
+        "debut_year": 91030,
+        "created_at": "2023-09-01T12:53:51.881Z",
+        "updated_at": "2023-09-01T10:18:03.708Z",
+        "song_id": "9828ec81-7ebd-4e1a-8cc5-34d132245ad5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8fbd51fd-ec41-4452-9293-2dea887db7de",
+        "email": "Sammy_Sawayn@hotmail.com",
+        "firstName": "Deanna",
+        "lastName": "Carroll",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20877447",
+        "tenantId": null
+      },
+      {
+        "reference": "44543254-cde3-4e3e-aac2-df31f5a25146",
+        "email": "Marjory99@gmail.com",
+        "firstName": "Norbert",
+        "lastName": "Quitzon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80268622",
+        "tenantId": null
+      },
+      {
+        "reference": "ee23fb66-e657-41a7-bb3e-6dcda4bf3f5a",
+        "email": "Marcelina58@hotmail.com",
+        "firstName": "Elyssa",
+        "lastName": "MacGyver",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/294.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "87f4d207-f8b0-4368-a331-73bfe74b90a5",
+        "email": "Flo58@hotmail.com",
+        "firstName": "Estel",
+        "lastName": "Kihn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88353379",
+        "tenantId": null
+      },
+      {
+        "reference": "ca345cdd-5877-4665-b229-77e700e69ac6",
+        "email": "Herminio76@yahoo.com",
+        "firstName": "Sherwood",
+        "lastName": "Rohan",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/251.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "22edec44-fc4c-4039-9c0d-2759e468f3fe",
+        "model": "Xtreme Beats",
+        "manufacturer": "Acoustic Audio",
+        "storage_capacity": 53437,
+        "battery_life": 91894,
+        "created_at": "2023-09-01T20:04:12.258Z",
+        "updated_at": "2023-09-01T06:51:02.262Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "796cd431-7340-401d-bd39-bad4be23f467",
+        "model": "SoundWave Pro",
+        "manufacturer": "Sonic Systems",
+        "storage_capacity": 59576,
+        "battery_life": 41878,
+        "created_at": "2023-09-02T03:34:17.631Z",
+        "updated_at": "2023-09-01T23:20:45.807Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5c131efb-1712-4e88-aa93-d8cc205d6160",
+        "model": "MusicMaster X",
+        "manufacturer": "Melody Electronics",
+        "storage_capacity": 81816,
+        "battery_life": 95580,
+        "created_at": "2023-09-01T18:11:06.577Z",
+        "updated_at": "2023-09-02T01:26:24.296Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "da59f5f6-611a-4d70-84a6-55a49a60ec4e",
+        "model": "AudioBliss",
+        "manufacturer": "Harmonix Audio",
+        "storage_capacity": 74843,
+        "battery_life": 61566,
+        "created_at": "2023-09-01T11:56:30.223Z",
+        "updated_at": "2023-09-01T17:06:19.325Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6f8b41e4-d2f1-492c-b368-f47b152d12d1",
+        "model": "Harmony Sound",
+        "manufacturer": "Rhythm Technologies",
+        "storage_capacity": 82552,
+        "battery_life": 10548,
+        "created_at": "2023-09-02T01:34:11.361Z",
+        "updated_at": "2023-09-01T22:35:53.309Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "60575233-9fce-47b6-a78d-7a55b0b4a03a",
+        "title": "Sunset Serenade",
+        "duration": 19004,
+        "genre": "Pop",
+        "release_date": "2023-09-01T10:38:33.292Z",
+        "created_at": "2023-09-02T03:41:11.500Z",
+        "updated_at": "2023-09-01T09:36:39.021Z",
+        "mp3_player_id": "5c131efb-1712-4e88-aa93-d8cc205d6160"
+      },
+      {
+        "id": "eaad402d-23be-4e14-b0ee-5f9fceeecf01",
+        "title": "Dancing Shadows",
+        "duration": 98634,
+        "genre": "Rock",
+        "release_date": "2023-09-01T10:31:22.489Z",
+        "created_at": "2023-09-01T12:21:27.862Z",
+        "updated_at": "2023-09-01T09:12:13.645Z",
+        "mp3_player_id": "796cd431-7340-401d-bd39-bad4be23f467"
+      },
+      {
+        "id": "dc69590b-f5ac-44df-813c-46f467e058b1",
+        "title": "Melancholy Memories",
+        "duration": 10568,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T10:26:41.978Z",
+        "created_at": "2023-09-01T14:16:09.915Z",
+        "updated_at": "2023-09-01T04:32:42.406Z",
+        "mp3_player_id": "da59f5f6-611a-4d70-84a6-55a49a60ec4e"
+      },
+      {
+        "id": "45914ce9-8a1f-42eb-ab09-efae3c680df4",
+        "title": "Rhythm of the Rain",
+        "duration": 69880,
+        "genre": "Electronic",
+        "release_date": "2023-09-01T07:33:57.756Z",
+        "created_at": "2023-09-01T07:32:05.143Z",
+        "updated_at": "2023-09-01T21:54:11.519Z",
+        "mp3_player_id": "da59f5f6-611a-4d70-84a6-55a49a60ec4e"
+      },
+      {
+        "id": "ac95d629-73d1-47ac-a491-5ab935c94cb4",
+        "title": "Eternal Bliss",
+        "duration": 19977,
+        "genre": "Classical",
+        "release_date": "2023-09-01T05:19:58.133Z",
+        "created_at": "2023-09-01T18:49:19.707Z",
+        "updated_at": "2023-09-01T11:37:03.113Z",
+        "mp3_player_id": "da59f5f6-611a-4d70-84a6-55a49a60ec4e"
+      }
+    ],
+    "collection": [
+      {
+        "id": "ff0910be-1fd6-40a1-8ce7-917413d24b91",
+        "name": "Golden Hits",
+        "creation_date": "2023-09-01T04:23:33.565Z",
+        "last_updated": "2023-09-01T05:42:25.098Z",
+        "total_songs": 30546,
+        "created_at": "2023-09-01T23:23:33.278Z",
+        "updated_at": "2023-09-01T20:06:14.622Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c977535b-98ce-4f8d-9416-7fd43dd7a44e",
+        "name": "Summer Vibes",
+        "creation_date": "2023-09-01T20:09:14.088Z",
+        "last_updated": "2023-09-01T06:34:44.735Z",
+        "total_songs": 53516,
+        "created_at": "2023-09-01T16:06:32.056Z",
+        "updated_at": "2023-09-01T15:55:35.285Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "62eaf6b2-9a5f-4423-b49e-98cfca78bdda",
+        "name": "Chill Out Grooves",
+        "creation_date": "2023-09-01T23:49:36.353Z",
+        "last_updated": "2023-09-01T22:33:24.965Z",
+        "total_songs": 68247,
+        "created_at": "2023-09-01T07:51:50.452Z",
+        "updated_at": "2023-09-01T18:58:37.546Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "b361f824-2a6f-4bcb-9176-81602375af03",
+        "name": "Road Trip Jams",
+        "creation_date": "2023-09-02T01:08:52.591Z",
+        "last_updated": "2023-09-01T23:52:54.072Z",
+        "total_songs": 16084,
+        "created_at": "2023-09-01T15:28:56.915Z",
+        "updated_at": "2023-09-02T01:17:43.261Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d2eeac00-d661-430d-a27c-2181a0a39ffa",
+        "name": "Acoustic Delights",
+        "creation_date": "2023-09-02T03:20:51.696Z",
+        "last_updated": "2023-09-02T02:38:43.805Z",
+        "total_songs": 72636,
+        "created_at": "2023-09-01T16:42:15.283Z",
+        "updated_at": "2023-09-01T23:27:00.066Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "0d164795-7894-4bf6-bc92-0450d7f0e4d4",
+        "name": "Samantha White",
+        "birth_date": "2023-09-01T19:15:36.700Z",
+        "genre": "Pop",
+        "debut_year": 58506,
+        "created_at": "2023-09-01T08:08:52.682Z",
+        "updated_at": "2023-09-01T15:43:46.874Z",
+        "song_id": "60575233-9fce-47b6-a78d-7a55b0b4a03a"
+      },
+      {
+        "id": "4e7f1691-3400-49d8-b49b-6fa70a80c88c",
+        "name": "Daniel Blackwood",
+        "birth_date": "2023-09-01T22:31:58.082Z",
+        "genre": "R&B",
+        "debut_year": 50014,
+        "created_at": "2023-09-01T15:32:13.562Z",
+        "updated_at": "2023-09-02T00:12:57.006Z",
+        "song_id": "45914ce9-8a1f-42eb-ab09-efae3c680df4"
+      },
+      {
+        "id": "2aed5334-2708-4c5a-9bcb-5692d63d6901",
+        "name": "Emily Green",
+        "birth_date": "2023-09-01T07:35:31.032Z",
+        "genre": "Country",
+        "debut_year": 16926,
+        "created_at": "2023-09-01T23:18:09.851Z",
+        "updated_at": "2023-09-02T03:03:24.487Z",
+        "song_id": "45914ce9-8a1f-42eb-ab09-efae3c680df4"
+      },
+      {
+        "id": "c191c1b8-8e80-46fd-95bb-ab36ae046d4f",
+        "name": "Michael Brown",
+        "birth_date": "2023-09-01T07:02:06.876Z",
+        "genre": "Hip Hop",
+        "debut_year": 55241,
+        "created_at": "2023-09-02T02:47:14.699Z",
+        "updated_at": "2023-09-01T12:20:43.696Z",
+        "song_id": "45914ce9-8a1f-42eb-ab09-efae3c680df4"
+      },
+      {
+        "id": "62a4111a-481f-430d-82ec-1ebc42784146",
+        "name": "Olivia Davis",
+        "birth_date": "2023-09-01T16:26:29.850Z",
+        "genre": "Indie",
+        "debut_year": 84406,
+        "created_at": "2023-09-01T08:27:50.501Z",
+        "updated_at": "2023-09-01T06:02:14.125Z",
+        "song_id": "45914ce9-8a1f-42eb-ab09-efae3c680df4"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "0c813bd5-63dd-441c-9554-790373d7aab8",
+        "email": "Savanna.Anderson@gmail.com",
+        "firstName": "Dakota",
+        "lastName": "Daugherty-Schneider",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1072.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0d5e98ad-f5a8-45aa-a623-59bf20706b16",
+        "email": "Emely_Corkery9@gmail.com",
+        "firstName": "Chaz",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/57023842",
+        "tenantId": null
+      },
+      {
+        "reference": "d51e2761-5b6b-4a9b-b026-d8fabe642234",
+        "email": "Vena_Ankunding36@yahoo.com",
+        "firstName": "Marco",
+        "lastName": "Ondricka",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/739.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "721dff16-b02e-47eb-8b61-55f2c4c67450",
+        "email": "Elwyn98@hotmail.com",
+        "firstName": "Molly",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f70fc910-ce54-4e40-96d7-3e76ec7fe47e",
+        "email": "Meggie_Prohaska92@yahoo.com",
+        "firstName": "Hipolito",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/514.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "a12deaa4-fe4c-4e9d-91d8-ce68a8147593",
+        "model": "MusicMaster 2000",
+        "manufacturer": "SoundTech",
+        "storage_capacity": 88326,
+        "battery_life": 23099,
+        "created_at": "2023-09-01T07:44:13.710Z",
+        "updated_at": "2023-09-01T19:21:05.470Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ffa5a8b3-5c82-432b-a03a-624203c1b6db",
+        "model": "AudioPro X1",
+        "manufacturer": "AudioPro",
+        "storage_capacity": 64882,
+        "battery_life": 48973,
+        "created_at": "2023-09-01T08:47:10.837Z",
+        "updated_at": "2023-09-01T23:02:20.399Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2a79b0b6-5b69-42e5-a863-698f9833a895",
+        "model": "BeatBox 500",
+        "manufacturer": "BeatBox",
+        "storage_capacity": 36696,
+        "battery_life": 33530,
+        "created_at": "2023-09-01T11:14:28.858Z",
+        "updated_at": "2023-09-01T06:36:16.737Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "489eed0f-230d-4a0d-be04-3f615bac1843",
+        "model": "SoundWave Deluxe",
+        "manufacturer": "MusicMakers",
+        "storage_capacity": 15694,
+        "battery_life": 3256,
+        "created_at": "2023-09-01T15:39:47.617Z",
+        "updated_at": "2023-09-01T06:44:44.978Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "9c806b15-e306-4a35-8db0-6c5a3f8b397c",
+        "model": "MelodyMax 300",
+        "manufacturer": "MelodyTech",
+        "storage_capacity": 85490,
+        "battery_life": 71408,
+        "created_at": "2023-09-01T20:58:09.086Z",
+        "updated_at": "2023-09-02T01:00:26.565Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "31ba5218-da09-4a61-b08f-bb3787c91f3d",
+        "title": "Sunset Serenade",
+        "duration": 1018,
+        "genre": "Pop",
+        "release_date": "2023-09-02T03:38:50.921Z",
+        "created_at": "2023-09-02T01:37:29.669Z",
+        "updated_at": "2023-09-01T13:57:35.203Z",
+        "mp3_player_id": "a12deaa4-fe4c-4e9d-91d8-ce68a8147593"
+      },
+      {
+        "id": "feb25344-83b5-4963-8762-e59b8bcfa51d",
+        "title": "Dancing in the Moonlight",
+        "duration": 31700,
+        "genre": "Rock",
+        "release_date": "2023-09-01T14:25:49.625Z",
+        "created_at": "2023-09-01T23:43:16.187Z",
+        "updated_at": "2023-09-02T03:26:01.954Z",
+        "mp3_player_id": "9c806b15-e306-4a35-8db0-6c5a3f8b397c"
+      },
+      {
+        "id": "10c847f4-3f5d-4fa6-875c-e80ac9e4f9e9",
+        "title": "Rhythm of Life",
+        "duration": 33231,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T15:37:21.861Z",
+        "created_at": "2023-09-01T07:34:57.454Z",
+        "updated_at": "2023-09-02T02:27:17.000Z",
+        "mp3_player_id": "ffa5a8b3-5c82-432b-a03a-624203c1b6db"
+      },
+      {
+        "id": "55505dae-5837-40fa-a50d-dfd04b505294",
+        "title": "Melodies of Love",
+        "duration": 2916,
+        "genre": "Classical",
+        "release_date": "2023-09-01T19:29:31.408Z",
+        "created_at": "2023-09-01T14:49:46.914Z",
+        "updated_at": "2023-09-01T05:25:13.961Z",
+        "mp3_player_id": "9c806b15-e306-4a35-8db0-6c5a3f8b397c"
+      },
+      {
+        "id": "41f8264a-9384-4747-9111-6aa5b891925b",
+        "title": "Serenade in G Major",
+        "duration": 98454,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-01T05:44:51.705Z",
+        "created_at": "2023-09-01T14:42:29.978Z",
+        "updated_at": "2023-09-01T17:31:47.317Z",
+        "mp3_player_id": "a12deaa4-fe4c-4e9d-91d8-ce68a8147593"
+      }
+    ],
+    "collection": [
+      {
+        "id": "a57229bb-288f-4f67-b1a3-d1f63395089e",
+        "name": "Greatest Hits",
+        "creation_date": "2023-09-01T12:54:46.357Z",
+        "last_updated": "2023-09-01T12:31:41.773Z",
+        "total_songs": 632,
+        "created_at": "2023-09-01T06:16:36.388Z",
+        "updated_at": "2023-09-01T18:13:07.599Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "abec6045-2240-4bd1-818c-933f70cd0f3f",
+        "name": "Summer Vibes",
+        "creation_date": "2023-09-01T13:29:44.725Z",
+        "last_updated": "2023-09-01T17:23:43.126Z",
+        "total_songs": 37574,
+        "created_at": "2023-09-01T04:18:04.972Z",
+        "updated_at": "2023-09-01T17:01:07.598Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0c58d7a1-15d0-4294-b21a-7066153f6e39",
+        "name": "Chill Out Lounge",
+        "creation_date": "2023-09-01T05:16:24.655Z",
+        "last_updated": "2023-09-01T06:42:58.153Z",
+        "total_songs": 28540,
+        "created_at": "2023-09-01T10:41:58.514Z",
+        "updated_at": "2023-09-01T14:01:12.379Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a95182a0-0f79-43d9-be5b-edf92849464b",
+        "name": "Road Trip Mix",
+        "creation_date": "2023-09-01T10:07:27.659Z",
+        "last_updated": "2023-09-01T19:11:15.547Z",
+        "total_songs": 16535,
+        "created_at": "2023-09-01T09:40:46.711Z",
+        "updated_at": "2023-09-02T01:16:46.793Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1dd9c87a-57ad-4abd-b102-f0b27c44b571",
+        "name": "Feel Good Tunes",
+        "creation_date": "2023-09-01T19:37:13.799Z",
+        "last_updated": "2023-09-01T16:09:35.390Z",
+        "total_songs": 37460,
+        "created_at": "2023-09-01T22:36:39.305Z",
+        "updated_at": "2023-09-01T22:15:33.478Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "3d0f7e1a-1473-4bbd-ab78-88e15f42a48c",
+        "name": "Taylor Swift",
+        "birth_date": "2023-09-01T23:00:58.653Z",
+        "genre": "Pop",
+        "debut_year": 14408,
+        "created_at": "2023-09-01T14:52:54.134Z",
+        "updated_at": "2023-09-01T21:05:16.775Z",
+        "song_id": "feb25344-83b5-4963-8762-e59b8bcfa51d"
+      },
+      {
+        "id": "bd20ad62-b040-40ac-92cb-26712bdfdbd9",
+        "name": "Ed Sheeran",
+        "birth_date": "2023-09-01T23:21:30.514Z",
+        "genre": "Pop",
+        "debut_year": 83510,
+        "created_at": "2023-09-01T09:25:50.396Z",
+        "updated_at": "2023-09-01T08:05:57.201Z",
+        "song_id": "41f8264a-9384-4747-9111-6aa5b891925b"
+      },
+      {
+        "id": "be72e110-7761-4b28-92ce-4e254d809ef1",
+        "name": "Beyoncé",
+        "birth_date": "2023-09-01T14:34:47.579Z",
+        "genre": "R&B",
+        "debut_year": 23259,
+        "created_at": "2023-09-01T18:16:09.648Z",
+        "updated_at": "2023-09-02T03:07:09.700Z",
+        "song_id": "feb25344-83b5-4963-8762-e59b8bcfa51d"
+      },
+      {
+        "id": "2f9219e6-5e5b-43ec-8612-e8200476af0c",
+        "name": "Bruno Mars",
+        "birth_date": "2023-09-01T22:55:50.158Z",
+        "genre": "Pop",
+        "debut_year": 25093,
+        "created_at": "2023-09-01T23:06:47.287Z",
+        "updated_at": "2023-09-01T14:40:46.939Z",
+        "song_id": "31ba5218-da09-4a61-b08f-bb3787c91f3d"
+      },
+      {
+        "id": "c67df2fa-6363-4db9-beb6-94962a534b45",
+        "name": "Adele",
+        "birth_date": "2023-09-01T18:44:52.922Z",
+        "genre": "Soul",
+        "debut_year": 90190,
+        "created_at": "2023-09-01T23:33:31.493Z",
+        "updated_at": "2023-09-01T10:14:33.912Z",
+        "song_id": "55505dae-5837-40fa-a50d-dfd04b505294"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "7ba8b0c8-f98d-42a8-a26e-b8fdeded6e56",
+        "email": "Trinity73@gmail.com",
+        "firstName": "Faustino",
+        "lastName": "Marks",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/994.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "74c2047d-e60a-4e0d-8ae8-65c2e1edfe69",
+        "email": "Koby.Mertz@gmail.com",
+        "firstName": "Ewald",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/621.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a7050758-827e-4b39-8619-1fa96492f3b0",
+        "email": "Germaine86@gmail.com",
+        "firstName": "Madelyn",
+        "lastName": "Pouros",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16229379",
+        "tenantId": null
+      },
+      {
+        "reference": "bc5b6d60-63d7-443d-b998-1db0f80b931d",
+        "email": "Durward_Kuhlman61@yahoo.com",
+        "firstName": "Hal",
+        "lastName": "Wisozk",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/323.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e10fc844-5ff3-4e8d-bcd2-911ba620c25c",
+        "email": "Garry_Brekke@yahoo.com",
+        "firstName": "Gregoria",
+        "lastName": "Wiza",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/473.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "eabef5e4-4ecb-49e2-a2ae-5ce9c5dc07e3",
+        "model": "MelodyMaster",
+        "manufacturer": "AcousticAudio",
+        "storage_capacity": 16564,
+        "battery_life": 42141,
+        "created_at": "2023-09-01T20:04:32.366Z",
+        "updated_at": "2023-09-01T06:45:12.242Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6341ff25-892e-4280-b7e7-d25d69e7ebbd",
+        "model": "BeatBox Pro",
+        "manufacturer": "DynamicSound",
+        "storage_capacity": 20954,
+        "battery_life": 76291,
+        "created_at": "2023-09-01T16:51:03.466Z",
+        "updated_at": "2023-09-01T05:03:40.343Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "534a8d57-d646-4787-84ea-07e7d9d84f9a",
+        "model": "HarmonyPlayer",
+        "manufacturer": "Harmonix",
+        "storage_capacity": 27047,
+        "battery_life": 68097,
+        "created_at": "2023-09-02T01:41:43.981Z",
+        "updated_at": "2023-09-01T13:27:26.949Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5e4baf30-84fd-4faf-8ecd-45b4a350b0e4",
+        "model": "RhythmX",
+        "manufacturer": "MelodyMakers",
+        "storage_capacity": 71088,
+        "battery_life": 18658,
+        "created_at": "2023-09-01T17:31:53.615Z",
+        "updated_at": "2023-09-01T16:40:48.881Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "220280ff-f963-4629-bff4-0bbb721f6eb4",
+        "model": "SoundWave Elite",
+        "manufacturer": "SoundTech",
+        "storage_capacity": 17304,
+        "battery_life": 25002,
+        "created_at": "2023-09-02T00:59:27.913Z",
+        "updated_at": "2023-09-02T02:34:11.747Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "73fb629b-fc03-47c7-ba5c-8c8ad4d59bca",
+        "title": "Sunset Serenade",
+        "duration": 18662,
+        "genre": "Pop",
+        "release_date": "2023-09-01T07:31:37.438Z",
+        "created_at": "2023-09-01T22:55:43.748Z",
+        "updated_at": "2023-09-01T22:14:21.719Z",
+        "mp3_player_id": "534a8d57-d646-4787-84ea-07e7d9d84f9a"
+      },
+      {
+        "id": "e22ccb01-dacb-4419-b1af-5d823a2a592a",
+        "title": "Midnight Melodies",
+        "duration": 41066,
+        "genre": "Rock",
+        "release_date": "2023-09-01T14:07:09.140Z",
+        "created_at": "2023-09-01T16:09:44.051Z",
+        "updated_at": "2023-09-01T05:36:22.091Z",
+        "mp3_player_id": "220280ff-f963-4629-bff4-0bbb721f6eb4"
+      },
+      {
+        "id": "6fedcc27-a142-4092-b4bc-45ac10278ab9",
+        "title": "Dancing in the Rain",
+        "duration": 69110,
+        "genre": "R&B",
+        "release_date": "2023-09-02T01:19:27.701Z",
+        "created_at": "2023-09-02T02:43:43.409Z",
+        "updated_at": "2023-09-01T05:58:22.362Z",
+        "mp3_player_id": "6341ff25-892e-4280-b7e7-d25d69e7ebbd"
+      },
+      {
+        "id": "4f18f2fd-ecea-4693-8f54-916fd7f85386",
+        "title": "Dreamy Summer Nights",
+        "duration": 78761,
+        "genre": "Electronic",
+        "release_date": "2023-09-01T04:24:47.083Z",
+        "created_at": "2023-09-01T18:38:50.462Z",
+        "updated_at": "2023-09-01T06:49:03.520Z",
+        "mp3_player_id": "220280ff-f963-4629-bff4-0bbb721f6eb4"
+      },
+      {
+        "id": "0d11af07-6e30-4d4f-b007-3beb3f86ad79",
+        "title": "Serenity's Song",
+        "duration": 19066,
+        "genre": "Country",
+        "release_date": "2023-09-01T10:22:42.966Z",
+        "created_at": "2023-09-01T07:42:18.000Z",
+        "updated_at": "2023-09-01T03:59:41.331Z",
+        "mp3_player_id": "6341ff25-892e-4280-b7e7-d25d69e7ebbd"
+      }
+    ],
+    "collection": [
+      {
+        "id": "42866ca1-fd03-490a-871a-b1e94bedaeea",
+        "name": "Best of 90s",
+        "creation_date": "2023-09-02T01:22:35.450Z",
+        "last_updated": "2023-09-01T10:49:55.913Z",
+        "total_songs": 7634,
+        "created_at": "2023-09-01T12:21:56.852Z",
+        "updated_at": "2023-09-01T12:06:12.328Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "330e0940-5915-45b0-876b-6a378058ace0",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-02T00:54:38.867Z",
+        "last_updated": "2023-09-01T11:35:40.470Z",
+        "total_songs": 87103,
+        "created_at": "2023-09-01T07:59:33.500Z",
+        "updated_at": "2023-09-02T02:17:48.985Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "80e6b53b-5814-44a6-8042-439ac014c14b",
+        "name": "Road Trip Anthems",
+        "creation_date": "2023-09-02T00:08:50.574Z",
+        "last_updated": "2023-09-01T13:55:12.285Z",
+        "total_songs": 67208,
+        "created_at": "2023-09-01T15:56:47.741Z",
+        "updated_at": "2023-09-01T05:12:29.456Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7500158d-a9ab-4a69-b626-084f2137487a",
+        "name": "Feel-Good Classics",
+        "creation_date": "2023-09-01T08:47:57.272Z",
+        "last_updated": "2023-09-01T04:21:37.040Z",
+        "total_songs": 30106,
+        "created_at": "2023-09-01T10:29:16.640Z",
+        "updated_at": "2023-09-01T22:32:03.442Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d0440c3-5245-440f-b1fc-d1c77ca08cb4",
+        "name": "Summer Hits",
+        "creation_date": "2023-09-01T15:59:04.564Z",
+        "last_updated": "2023-09-01T06:28:41.595Z",
+        "total_songs": 82402,
+        "created_at": "2023-09-01T14:50:38.931Z",
+        "updated_at": "2023-09-01T04:22:29.182Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "5f18a5a0-ef09-4a73-bb65-5c4621dc371f",
+        "name": "Emily Roberts",
+        "birth_date": "2023-09-01T07:10:05.341Z",
+        "genre": "Indie Pop",
+        "debut_year": 42317,
+        "created_at": "2023-09-01T17:18:40.986Z",
+        "updated_at": "2023-09-01T22:21:06.901Z",
+        "song_id": "6fedcc27-a142-4092-b4bc-45ac10278ab9"
+      },
+      {
+        "id": "235b0e51-f0fb-45cc-82a2-cd24230e79a6",
+        "name": "Alex Turner",
+        "birth_date": "2023-09-01T11:29:18.603Z",
+        "genre": "Alternative Rock",
+        "debut_year": 13426,
+        "created_at": "2023-09-01T16:57:45.843Z",
+        "updated_at": "2023-09-02T01:09:32.166Z",
+        "song_id": "6fedcc27-a142-4092-b4bc-45ac10278ab9"
+      },
+      {
+        "id": "f83886d0-a02c-43d1-8b58-1f18e3027b0c",
+        "name": "Olivia Parker",
+        "birth_date": "2023-09-01T18:36:39.983Z",
+        "genre": "Soul",
+        "debut_year": 1634,
+        "created_at": "2023-09-01T04:18:59.694Z",
+        "updated_at": "2023-09-01T13:06:41.250Z",
+        "song_id": "4f18f2fd-ecea-4693-8f54-916fd7f85386"
+      },
+      {
+        "id": "7066ceb2-3532-439b-ac18-7ed6200f5755",
+        "name": "Maxwell Davis",
+        "birth_date": "2023-09-02T02:05:58.009Z",
+        "genre": "Jazz",
+        "debut_year": 559,
+        "created_at": "2023-09-01T17:30:29.445Z",
+        "updated_at": "2023-09-01T15:46:33.968Z",
+        "song_id": "4f18f2fd-ecea-4693-8f54-916fd7f85386"
+      },
+      {
+        "id": "df159a8c-7386-416b-90d1-1ec550f8b939",
+        "name": "Sophia Thompson",
+        "birth_date": "2023-09-02T01:25:51.375Z",
+        "genre": "Folk",
+        "debut_year": 5256,
+        "created_at": "2023-09-01T17:02:15.278Z",
+        "updated_at": "2023-09-01T06:05:50.892Z",
+        "song_id": "6fedcc27-a142-4092-b4bc-45ac10278ab9"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "838cb6aa-8aff-436e-8db8-dd0c96580499",
+        "email": "Clifford_Reichert84@yahoo.com",
+        "firstName": "Alex",
+        "lastName": "Harvey",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58120459",
+        "tenantId": null
+      },
+      {
+        "reference": "3d2514da-0241-4d14-9155-d6a5bede9a15",
+        "email": "Eldora_Roberts30@yahoo.com",
+        "firstName": "Idella",
+        "lastName": "Weber",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/365.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "d9225044-4879-4407-9a15-5cb495adcb17",
+        "email": "Florine_Gleason@yahoo.com",
+        "firstName": "Federico",
+        "lastName": "Kautzer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/101.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "48b96991-03b6-4462-aa01-2ebc4c531c8e",
+        "email": "Monty73@hotmail.com",
+        "firstName": "Itzel",
+        "lastName": "O'Hara",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/90052456",
+        "tenantId": null
+      },
+      {
+        "reference": "f88255b7-e3cc-40e4-a500-a4b51815c5bb",
+        "email": "Darius.Hahn@gmail.com",
+        "firstName": "Zelma",
+        "lastName": "Haag-Gulgowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/64360092",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "fe9efc6e-f8a9-48c7-a422-aa36b5ebc405",
+        "model": "iPod Classic",
+        "manufacturer": "Apple",
+        "storage_capacity": 25668,
+        "battery_life": 61119,
+        "created_at": "2023-09-01T05:42:05.048Z",
+        "updated_at": "2023-09-01T16:11:21.470Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "66ea8d93-a390-49df-a1cd-2154743a7164",
+        "model": "Sony Walkman",
+        "manufacturer": "Sony",
+        "storage_capacity": 61672,
+        "battery_life": 97781,
+        "created_at": "2023-09-02T00:22:05.543Z",
+        "updated_at": "2023-09-01T16:02:47.660Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0cb2c05-dafc-4ede-933d-00ff2d854725",
+        "model": "SanDisk Clip Sport",
+        "manufacturer": "SanDisk",
+        "storage_capacity": 73850,
+        "battery_life": 26874,
+        "created_at": "2023-09-01T10:35:54.986Z",
+        "updated_at": "2023-09-02T01:36:35.253Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "41ecd77f-db8c-4dc9-94e9-aa7e520bbf40",
+        "model": "Creative Zen",
+        "manufacturer": "Creative",
+        "storage_capacity": 27703,
+        "battery_life": 78641,
+        "created_at": "2023-09-01T14:39:37.397Z",
+        "updated_at": "2023-09-01T23:43:17.705Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "76d490d5-8479-4ea6-b462-82dafd1528a0",
+        "model": "Samsung Galaxy Player",
+        "manufacturer": "Samsung",
+        "storage_capacity": 76677,
+        "battery_life": 45694,
+        "created_at": "2023-09-01T08:41:53.047Z",
+        "updated_at": "2023-09-01T05:06:19.676Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "234482cd-cc11-464b-ab35-36c124016b21",
+        "title": "Bohemian Rhapsody",
+        "duration": 43520,
+        "genre": "Rock",
+        "release_date": "2023-09-01T19:52:17.007Z",
+        "created_at": "2023-09-01T09:27:50.056Z",
+        "updated_at": "2023-09-01T21:45:03.330Z",
+        "mp3_player_id": "66ea8d93-a390-49df-a1cd-2154743a7164"
+      },
+      {
+        "id": "9d4d5686-386d-4b20-91c2-4dd5e5e877c5",
+        "title": "Hotel California",
+        "duration": 28279,
+        "genre": "Pop",
+        "release_date": "2023-09-01T11:09:50.444Z",
+        "created_at": "2023-09-01T05:30:51.691Z",
+        "updated_at": "2023-09-02T01:49:02.516Z",
+        "mp3_player_id": "d0cb2c05-dafc-4ede-933d-00ff2d854725"
+      },
+      {
+        "id": "d9cc702f-4cab-40ee-9854-970a39b9d135",
+        "title": "Imagine",
+        "duration": 38990,
+        "genre": "R&B",
+        "release_date": "2023-09-01T05:14:26.709Z",
+        "created_at": "2023-09-01T09:20:26.912Z",
+        "updated_at": "2023-09-01T10:53:05.825Z",
+        "mp3_player_id": "fe9efc6e-f8a9-48c7-a422-aa36b5ebc405"
+      },
+      {
+        "id": "78176e96-fa17-4e00-9285-42eae6225364",
+        "title": "Hey Jude",
+        "duration": 73074,
+        "genre": "Country",
+        "release_date": "2023-09-01T04:20:18.046Z",
+        "created_at": "2023-09-01T09:04:10.368Z",
+        "updated_at": "2023-09-01T12:47:03.095Z",
+        "mp3_player_id": "76d490d5-8479-4ea6-b462-82dafd1528a0"
+      },
+      {
+        "id": "41dd12e4-5d06-4a02-a5cb-6079244d4603",
+        "title": "Stairway to Heaven",
+        "duration": 20850,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-02T02:52:14.029Z",
+        "created_at": "2023-09-01T05:48:35.004Z",
+        "updated_at": "2023-09-02T03:16:38.533Z",
+        "mp3_player_id": "fe9efc6e-f8a9-48c7-a422-aa36b5ebc405"
+      }
+    ],
+    "collection": [
+      {
+        "id": "48173a26-1de9-4948-ae27-8f9c13db8c25",
+        "name": "Favorites",
+        "creation_date": "2023-09-01T19:41:14.862Z",
+        "last_updated": "2023-09-02T02:19:09.053Z",
+        "total_songs": 25434,
+        "created_at": "2023-09-01T07:05:27.315Z",
+        "updated_at": "2023-09-01T22:09:46.267Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "a826b61d-e5b7-420e-b88b-8016291f9929",
+        "name": "Classics",
+        "creation_date": "2023-09-01T15:21:31.771Z",
+        "last_updated": "2023-09-01T20:04:09.303Z",
+        "total_songs": 42267,
+        "created_at": "2023-09-01T06:54:11.152Z",
+        "updated_at": "2023-09-02T01:05:35.860Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "51cad65d-fba8-4c20-bc8a-32f17e830592",
+        "name": "Party Hits",
+        "creation_date": "2023-09-01T11:17:14.642Z",
+        "last_updated": "2023-09-01T21:48:43.852Z",
+        "total_songs": 70450,
+        "created_at": "2023-09-01T17:15:08.320Z",
+        "updated_at": "2023-09-01T06:07:55.733Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3d188282-4232-4444-a6c5-17a63733116e",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-01T04:04:51.553Z",
+        "last_updated": "2023-09-01T21:47:05.067Z",
+        "total_songs": 68457,
+        "created_at": "2023-09-02T00:27:09.119Z",
+        "updated_at": "2023-09-01T23:26:56.632Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "57004430-51c4-41a8-a5b6-316fc74cd03d",
+        "name": "Road Trip",
+        "creation_date": "2023-09-01T05:13:48.266Z",
+        "last_updated": "2023-09-01T04:25:43.708Z",
+        "total_songs": 29250,
+        "created_at": "2023-09-01T06:13:56.264Z",
+        "updated_at": "2023-09-01T19:52:41.676Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "48c1324b-d2fb-46a9-8728-44f7ebd590f2",
+        "name": "Queen",
+        "birth_date": "2023-09-01T21:08:40.140Z",
+        "genre": "Rock",
+        "debut_year": 22606,
+        "created_at": "2023-09-01T15:21:33.994Z",
+        "updated_at": "2023-09-01T14:11:08.160Z",
+        "song_id": "41dd12e4-5d06-4a02-a5cb-6079244d4603"
+      },
+      {
+        "id": "7bdcf8c5-e2f5-47f2-b82d-1baa4d1ada03",
+        "name": "Eagles",
+        "birth_date": "2023-09-02T01:27:55.210Z",
+        "genre": "Pop",
+        "debut_year": 32655,
+        "created_at": "2023-09-01T05:26:25.669Z",
+        "updated_at": "2023-09-01T13:20:47.705Z",
+        "song_id": "d9cc702f-4cab-40ee-9854-970a39b9d135"
+      },
+      {
+        "id": "2204b21d-23a5-41d5-b6c9-4d295db0f763",
+        "name": "John Lennon",
+        "birth_date": "2023-09-01T11:20:16.361Z",
+        "genre": "Folk",
+        "debut_year": 30442,
+        "created_at": "2023-09-01T10:26:04.564Z",
+        "updated_at": "2023-09-01T13:35:26.484Z",
+        "song_id": "234482cd-cc11-464b-ab35-36c124016b21"
+      },
+      {
+        "id": "9f5b4d87-77db-4b79-a4c6-eec998baf985",
+        "name": "The Beatles",
+        "birth_date": "2023-09-01T13:55:54.129Z",
+        "genre": "Classic",
+        "debut_year": 84426,
+        "created_at": "2023-09-01T03:57:48.377Z",
+        "updated_at": "2023-09-01T20:02:43.851Z",
+        "song_id": "41dd12e4-5d06-4a02-a5cb-6079244d4603"
+      },
+      {
+        "id": "3a75dd0d-aa71-42ff-b260-cbcc4db34f67",
+        "name": "Led Zeppelin",
+        "birth_date": "2023-09-02T03:29:59.090Z",
+        "genre": "Blues",
+        "debut_year": 30380,
+        "created_at": "2023-09-02T01:35:56.479Z",
+        "updated_at": "2023-09-01T15:25:59.348Z",
+        "song_id": "9d4d5686-386d-4b20-91c2-4dd5e5e877c5"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "48230d30-ec8a-4e0f-a132-ea7833151b80",
+        "email": "Tony48@hotmail.com",
+        "firstName": "Quinten",
+        "lastName": "Volkman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/945.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6ebd9359-63b7-4355-bb93-399b05c81021",
+        "email": "Tyreek.Torp31@yahoo.com",
+        "firstName": "Maci",
+        "lastName": "Ebert",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/639.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "1813ce1f-7912-46dc-8f9a-6dadd4107fb4",
+        "email": "Junior.Rutherford@gmail.com",
+        "firstName": "Shania",
+        "lastName": "Jacobson",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/36.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "62887da5-24bb-4521-b42b-8fe11dc329d2",
+        "email": "Jamey.Mertz58@hotmail.com",
+        "firstName": "Salma",
+        "lastName": "Veum",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/118.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0f2a1c09-d3d3-4e2e-98dc-d4957cbe3931",
+        "email": "Arjun_Donnelly8@gmail.com",
+        "firstName": "Alexandre",
+        "lastName": "Haag",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/376.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "1b86aafc-3665-4c9d-a07b-b4ba84030f74",
+        "model": "MusicMaster 2000",
+        "manufacturer": "Acoustic Audio",
+        "storage_capacity": 27211,
+        "battery_life": 18588,
+        "created_at": "2023-09-01T14:51:47.288Z",
+        "updated_at": "2023-09-01T06:50:59.326Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "96b2aaf0-7d2c-4023-be68-f25c44ab65ca",
+        "model": "SoundWave Pro",
+        "manufacturer": "Sonic Sound",
+        "storage_capacity": 14294,
+        "battery_life": 73495,
+        "created_at": "2023-09-02T01:44:21.293Z",
+        "updated_at": "2023-09-01T10:50:56.743Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "4d321a3f-5af5-4ff5-b951-075788604f95",
+        "model": "AudioBliss X",
+        "manufacturer": "Harmony Electronics",
+        "storage_capacity": 67506,
+        "battery_life": 71421,
+        "created_at": "2023-09-01T10:32:43.512Z",
+        "updated_at": "2023-09-01T22:16:54.000Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0c31e17-d53b-4449-9c6e-124072fee917",
+        "model": "MelodyMixer 500",
+        "manufacturer": "RhythmTech",
+        "storage_capacity": 68005,
+        "battery_life": 75397,
+        "created_at": "2023-09-02T02:46:50.904Z",
+        "updated_at": "2023-09-01T10:53:55.625Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "46078197-2d62-422b-ad72-a0ae16b83bbd",
+        "model": "BeatBox Elite",
+        "manufacturer": "Melodic Music",
+        "storage_capacity": 43515,
+        "battery_life": 12000,
+        "created_at": "2023-09-01T20:32:52.606Z",
+        "updated_at": "2023-09-01T21:27:57.126Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "ee22d9a8-8550-46f6-9a83-d5c265125b95",
+        "title": "Sunset Serenade",
+        "duration": 87743,
+        "genre": "Pop",
+        "release_date": "2023-09-01T09:57:25.908Z",
+        "created_at": "2023-09-01T16:52:07.120Z",
+        "updated_at": "2023-09-01T05:54:33.396Z",
+        "mp3_player_id": "46078197-2d62-422b-ad72-a0ae16b83bbd"
+      },
+      {
+        "id": "675aca4c-3c59-4a6c-89e9-673364070b62",
+        "title": "Midnight Melodies",
+        "duration": 8010,
+        "genre": "Rock",
+        "release_date": "2023-09-01T10:46:03.338Z",
+        "created_at": "2023-09-01T05:13:05.356Z",
+        "updated_at": "2023-09-01T22:31:45.700Z",
+        "mp3_player_id": "46078197-2d62-422b-ad72-a0ae16b83bbd"
+      },
+      {
+        "id": "9a75cf95-6345-4827-9330-eae3fefb06f6",
+        "title": "Dancing in the Rain",
+        "duration": 99940,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T07:56:17.760Z",
+        "created_at": "2023-09-01T18:12:48.022Z",
+        "updated_at": "2023-09-01T07:14:57.647Z",
+        "mp3_player_id": "1b86aafc-3665-4c9d-a07b-b4ba84030f74"
+      },
+      {
+        "id": "6f7bc7f6-a022-442b-93ab-5c75a459ca9a",
+        "title": "Serenity's Embrace",
+        "duration": 79607,
+        "genre": "Classical",
+        "release_date": "2023-09-02T01:51:14.113Z",
+        "created_at": "2023-09-01T22:03:45.068Z",
+        "updated_at": "2023-09-01T20:24:57.942Z",
+        "mp3_player_id": "96b2aaf0-7d2c-4023-be68-f25c44ab65ca"
+      },
+      {
+        "id": "557602ee-05cf-47ca-863b-6d9b2010e4f3",
+        "title": "Eternal Harmony",
+        "duration": 84283,
+        "genre": "Electronic",
+        "release_date": "2023-09-01T16:11:06.966Z",
+        "created_at": "2023-09-01T15:03:17.104Z",
+        "updated_at": "2023-09-01T19:46:03.412Z",
+        "mp3_player_id": "4d321a3f-5af5-4ff5-b951-075788604f95"
+      }
+    ],
+    "collection": [
+      {
+        "id": "53035486-d317-49d2-8a7f-2aa4295165b0",
+        "name": "Golden Hits",
+        "creation_date": "2023-09-01T16:03:15.385Z",
+        "last_updated": "2023-09-02T02:25:43.547Z",
+        "total_songs": 41672,
+        "created_at": "2023-09-01T19:54:05.741Z",
+        "updated_at": "2023-09-01T19:58:49.432Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "243fc861-4cbc-46ec-9f17-714c77577b1c",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-01T14:26:20.926Z",
+        "last_updated": "2023-09-01T16:05:04.875Z",
+        "total_songs": 49673,
+        "created_at": "2023-09-02T00:12:26.722Z",
+        "updated_at": "2023-09-01T08:19:32.191Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d287cb67-d0a2-41c6-b520-d95373cb4a9a",
+        "name": "Road Trip Jams",
+        "creation_date": "2023-09-01T18:01:10.693Z",
+        "last_updated": "2023-09-01T22:29:34.294Z",
+        "total_songs": 93266,
+        "created_at": "2023-09-02T00:46:31.367Z",
+        "updated_at": "2023-09-01T07:17:31.435Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "92c3ecb7-109d-4eff-9bbe-4508ab9d85ab",
+        "name": "Feel Good Classics",
+        "creation_date": "2023-09-01T07:27:59.294Z",
+        "last_updated": "2023-09-01T07:47:01.090Z",
+        "total_songs": 65124,
+        "created_at": "2023-09-01T17:47:06.701Z",
+        "updated_at": "2023-09-01T05:26:05.641Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ef483586-a1ad-4949-8702-5c795b026e1c",
+        "name": "Summer Party Anthems",
+        "creation_date": "2023-09-01T07:26:33.678Z",
+        "last_updated": "2023-09-01T05:22:07.514Z",
+        "total_songs": 34642,
+        "created_at": "2023-09-01T13:51:39.696Z",
+        "updated_at": "2023-09-01T07:36:53.232Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "588c7691-5bbf-4cd2-8977-616eb8ebab69",
+        "name": "Samantha Green",
+        "birth_date": "2023-09-02T01:32:34.304Z",
+        "genre": "Pop",
+        "debut_year": 97189,
+        "created_at": "2023-09-02T02:12:54.624Z",
+        "updated_at": "2023-09-01T11:23:11.445Z",
+        "song_id": "6f7bc7f6-a022-442b-93ab-5c75a459ca9a"
+      },
+      {
+        "id": "004ef4d5-5e25-4393-ae84-b332975c1107",
+        "name": "Maxwell Davis",
+        "birth_date": "2023-09-01T15:16:13.535Z",
+        "genre": "R&B",
+        "debut_year": 9619,
+        "created_at": "2023-09-02T02:48:09.626Z",
+        "updated_at": "2023-09-01T16:59:28.645Z",
+        "song_id": "675aca4c-3c59-4a6c-89e9-673364070b62"
+      },
+      {
+        "id": "da75804f-c331-4347-9776-18912fe8cfec",
+        "name": "Luna Martinez",
+        "birth_date": "2023-09-02T01:45:42.173Z",
+        "genre": "Indie",
+        "debut_year": 14339,
+        "created_at": "2023-09-02T02:59:15.393Z",
+        "updated_at": "2023-09-01T20:31:43.665Z",
+        "song_id": "675aca4c-3c59-4a6c-89e9-673364070b62"
+      },
+      {
+        "id": "3bebb7d1-5dd2-439d-b73a-ef6b1cc8e9aa",
+        "name": "Oliver Thompson",
+        "birth_date": "2023-09-02T02:09:05.104Z",
+        "genre": "Country",
+        "debut_year": 38316,
+        "created_at": "2023-09-01T04:58:33.576Z",
+        "updated_at": "2023-09-01T22:59:15.700Z",
+        "song_id": "ee22d9a8-8550-46f6-9a83-d5c265125b95"
+      },
+      {
+        "id": "bf86fd77-7a27-4b9d-b988-804f071d3ad0",
+        "name": "Eva Walker",
+        "birth_date": "2023-09-01T17:07:35.162Z",
+        "genre": "Hip Hop",
+        "debut_year": 69155,
+        "created_at": "2023-09-01T06:35:18.895Z",
+        "updated_at": "2023-09-02T00:28:08.598Z",
+        "song_id": "6f7bc7f6-a022-442b-93ab-5c75a459ca9a"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "5bbbd99b-9c5c-406a-ab0a-5add6c58c508",
+        "email": "Don_Borer96@yahoo.com",
+        "firstName": "Mollie",
+        "lastName": "Davis",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/44528369",
+        "tenantId": null
+      },
+      {
+        "reference": "a76b33bb-9bb0-4fc8-969d-7928aa2a0797",
+        "email": "Marielle13@hotmail.com",
+        "firstName": "Kamille",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/88056777",
+        "tenantId": null
+      },
+      {
+        "reference": "0fb25822-e646-4f8b-835a-d2fda790bef8",
+        "email": "Sean1@hotmail.com",
+        "firstName": "Johnathon",
+        "lastName": "Hudson",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/60248233",
+        "tenantId": null
+      },
+      {
+        "reference": "184e8d8b-60e6-4dd9-8e8e-7addfc7bebad",
+        "email": "Alfred_Sauer17@hotmail.com",
+        "firstName": "Christiana",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/70803199",
+        "tenantId": null
+      },
+      {
+        "reference": "cde20aad-de5f-4dde-8772-0bc16807aaf0",
+        "email": "Einar_Adams@gmail.com",
+        "firstName": "Xavier",
+        "lastName": "Barton",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/624.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "f5091f02-9324-43b9-bdac-ab1a8ae099ee",
+        "model": "MegaTunes",
+        "manufacturer": "SoundTech",
+        "storage_capacity": 83741,
+        "battery_life": 18323,
+        "created_at": "2023-09-01T22:19:06.540Z",
+        "updated_at": "2023-09-01T04:06:46.176Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c521576c-152f-425a-a751-5705f2699f3e",
+        "model": "AudioMax",
+        "manufacturer": "AudioPro",
+        "storage_capacity": 99140,
+        "battery_life": 15837,
+        "created_at": "2023-09-01T21:22:02.973Z",
+        "updated_at": "2023-09-01T13:58:24.406Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "e3599e50-3131-440d-93b5-bd575519754b",
+        "model": "BeatMaster",
+        "manufacturer": "MusicMakers",
+        "storage_capacity": 67463,
+        "battery_life": 96220,
+        "created_at": "2023-09-01T12:47:18.965Z",
+        "updated_at": "2023-09-01T23:19:50.405Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "5b52240d-47c5-4313-b64c-af37f7999848",
+        "model": "SoundWave",
+        "manufacturer": "MelodyTech",
+        "storage_capacity": 41058,
+        "battery_life": 13037,
+        "created_at": "2023-09-01T11:33:51.883Z",
+        "updated_at": "2023-09-02T02:16:47.494Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d1ce8bca-90b1-4e16-af82-a2cc616ad121",
+        "model": "GrooveBox",
+        "manufacturer": "BeatMakers",
+        "storage_capacity": 33188,
+        "battery_life": 75483,
+        "created_at": "2023-09-01T20:59:29.587Z",
+        "updated_at": "2023-09-02T03:49:46.584Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "45efc6b7-b1fd-4953-b9de-af5829e91b13",
+        "title": "Sunset Serenade",
+        "duration": 99065,
+        "genre": "Pop",
+        "release_date": "2023-09-01T16:53:56.888Z",
+        "created_at": "2023-09-01T05:20:51.469Z",
+        "updated_at": "2023-09-01T22:10:41.986Z",
+        "mp3_player_id": "d1ce8bca-90b1-4e16-af82-a2cc616ad121"
+      },
+      {
+        "id": "57a12d4b-9c92-4e07-9af7-592aae33020e",
+        "title": "Midnight Melodies",
+        "duration": 59263,
+        "genre": "Rock",
+        "release_date": "2023-09-02T01:35:16.379Z",
+        "created_at": "2023-09-01T08:52:43.230Z",
+        "updated_at": "2023-09-01T14:02:17.562Z",
+        "mp3_player_id": "e3599e50-3131-440d-93b5-bd575519754b"
+      },
+      {
+        "id": "1d723afc-c7db-404a-a2af-3bc8f7d48cb2",
+        "title": "Dancing in the Rain",
+        "duration": 59506,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T23:49:56.980Z",
+        "created_at": "2023-09-01T10:18:11.472Z",
+        "updated_at": "2023-09-02T02:32:33.722Z",
+        "mp3_player_id": "f5091f02-9324-43b9-bdac-ab1a8ae099ee"
+      },
+      {
+        "id": "21460fea-3598-469c-80ba-086c93aee6b4",
+        "title": "Serenity's Symphony",
+        "duration": 5157,
+        "genre": "Country",
+        "release_date": "2023-09-01T15:33:59.615Z",
+        "created_at": "2023-09-02T01:12:25.418Z",
+        "updated_at": "2023-09-01T22:31:39.441Z",
+        "mp3_player_id": "f5091f02-9324-43b9-bdac-ab1a8ae099ee"
+      },
+      {
+        "id": "8b5da8d8-4aab-4b5f-a66f-fba2a6fde00b",
+        "title": "Rhythm of Life",
+        "duration": 18134,
+        "genre": "Hip Hop",
+        "release_date": "2023-09-01T16:41:04.460Z",
+        "created_at": "2023-09-01T08:15:15.518Z",
+        "updated_at": "2023-09-01T14:30:02.658Z",
+        "mp3_player_id": "e3599e50-3131-440d-93b5-bd575519754b"
+      }
+    ],
+    "collection": [
+      {
+        "id": "261e98e7-2e7f-42f3-8767-4e75d7e17ca6",
+        "name": "Classics Collection",
+        "creation_date": "2023-09-02T00:11:07.487Z",
+        "last_updated": "2023-09-01T11:40:03.754Z",
+        "total_songs": 50703,
+        "created_at": "2023-09-02T01:47:09.757Z",
+        "updated_at": "2023-09-01T10:00:53.763Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2f69556b-d05e-40f5-bccd-cd3ca9ddf8f6",
+        "name": "Summer Vibes",
+        "creation_date": "2023-09-01T09:34:00.717Z",
+        "last_updated": "2023-09-01T19:42:10.339Z",
+        "total_songs": 75984,
+        "created_at": "2023-09-01T23:47:34.482Z",
+        "updated_at": "2023-09-01T07:25:55.657Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "34102fb0-9b8c-4364-8912-03cc41ee9ca3",
+        "name": "Chill Out Grooves",
+        "creation_date": "2023-09-01T14:09:21.422Z",
+        "last_updated": "2023-09-01T09:21:47.230Z",
+        "total_songs": 1117,
+        "created_at": "2023-09-01T18:19:19.398Z",
+        "updated_at": "2023-09-01T20:46:47.198Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1a3c4cff-5012-40d4-87dd-373d759bacd6",
+        "name": "Party Anthems",
+        "creation_date": "2023-09-01T19:26:37.704Z",
+        "last_updated": "2023-09-02T03:52:43.947Z",
+        "total_songs": 12118,
+        "created_at": "2023-09-02T00:12:04.436Z",
+        "updated_at": "2023-09-01T10:25:10.819Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "48bfb674-50f4-4b25-aaca-424987351785",
+        "name": "Road Trip Jams",
+        "creation_date": "2023-09-01T22:56:05.528Z",
+        "last_updated": "2023-09-01T23:19:33.812Z",
+        "total_songs": 27269,
+        "created_at": "2023-09-01T22:59:29.400Z",
+        "updated_at": "2023-09-02T00:52:40.964Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "7aaded14-e776-4df7-b079-a8702d2cfd75",
+        "name": "Ella Fitzgerald",
+        "birth_date": "2023-09-01T21:20:46.903Z",
+        "genre": "Jazz",
+        "debut_year": 13519,
+        "created_at": "2023-09-01T06:12:59.680Z",
+        "updated_at": "2023-09-01T19:00:00.551Z",
+        "song_id": "57a12d4b-9c92-4e07-9af7-592aae33020e"
+      },
+      {
+        "id": "9bc4aeb2-1d9c-4cf6-ae31-4ac22f366089",
+        "name": "The Beatles",
+        "birth_date": "2023-09-01T19:30:42.943Z",
+        "genre": "Rock",
+        "debut_year": 94905,
+        "created_at": "2023-09-01T21:03:34.257Z",
+        "updated_at": "2023-09-01T14:55:01.107Z",
+        "song_id": "57a12d4b-9c92-4e07-9af7-592aae33020e"
+      },
+      {
+        "id": "4d4868bf-844d-46b8-bf68-171b232f6d47",
+        "name": "Miles Davis",
+        "birth_date": "2023-09-01T07:48:18.379Z",
+        "genre": "Jazz",
+        "debut_year": 19366,
+        "created_at": "2023-09-01T11:16:43.896Z",
+        "updated_at": "2023-09-01T15:44:30.255Z",
+        "song_id": "1d723afc-c7db-404a-a2af-3bc8f7d48cb2"
+      },
+      {
+        "id": "c1d57f3d-d644-447e-a131-f7278ee8e809",
+        "name": "Johnny Cash",
+        "birth_date": "2023-09-01T21:32:58.806Z",
+        "genre": "Country",
+        "debut_year": 21908,
+        "created_at": "2023-09-01T22:02:23.512Z",
+        "updated_at": "2023-09-01T10:05:38.387Z",
+        "song_id": "1d723afc-c7db-404a-a2af-3bc8f7d48cb2"
+      },
+      {
+        "id": "60672b6f-2290-492c-a15e-7a1a5f43d583",
+        "name": "Jay-Z",
+        "birth_date": "2023-09-01T04:01:55.376Z",
+        "genre": "Hip Hop",
+        "debut_year": 87935,
+        "created_at": "2023-09-01T14:16:53.634Z",
+        "updated_at": "2023-09-01T14:52:44.446Z",
+        "song_id": "57a12d4b-9c92-4e07-9af7-592aae33020e"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "48c437b5-7d93-4665-9921-d3d004f8c274",
+        "email": "Alexys38@hotmail.com",
+        "firstName": "Rebecca",
+        "lastName": "Yundt",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/434.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "f2ac221c-c1a6-4a05-8609-baee662a7c1e",
+        "email": "Jaylan41@gmail.com",
+        "firstName": "April",
+        "lastName": "Romaguera",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/778.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "12432088-2b5c-45d4-b76a-c4add645efea",
+        "email": "Hailie.Witting2@gmail.com",
+        "firstName": "Dannie",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/2147776",
+        "tenantId": null
+      },
+      {
+        "reference": "e165a099-43ed-4e02-b297-dcbe2e4406e4",
+        "email": "Jerel_Thompson33@hotmail.com",
+        "firstName": "Rylan",
+        "lastName": "Stamm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33026479",
+        "tenantId": null
+      },
+      {
+        "reference": "c2cae613-78af-48f5-a73e-788eb6d22469",
+        "email": "Dameon_Gleason19@yahoo.com",
+        "firstName": "Parker",
+        "lastName": "Macejkovic",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/257.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "402e4b93-e6d8-4a22-9a26-1253ede00c9f",
+        "model": "X1",
+        "manufacturer": "Acme Electronics",
+        "storage_capacity": 63497,
+        "battery_life": 90423,
+        "created_at": "2023-09-02T01:17:49.784Z",
+        "updated_at": "2023-09-01T09:03:18.394Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d0e944ad-f1bb-42a3-95a9-1ee740a2383d",
+        "model": "ProPlayer",
+        "manufacturer": "SoundTech",
+        "storage_capacity": 40511,
+        "battery_life": 45470,
+        "created_at": "2023-09-01T15:29:33.567Z",
+        "updated_at": "2023-09-01T07:38:35.798Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "7dbde580-f8e3-4f1a-b92d-674824b3d2b2",
+        "model": "MusicMaster",
+        "manufacturer": "AudioTech",
+        "storage_capacity": 73954,
+        "battery_life": 14259,
+        "created_at": "2023-09-01T07:26:11.813Z",
+        "updated_at": "2023-09-02T00:06:45.257Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "2a50de89-7c1c-4057-ab3a-37573dd72652",
+        "model": "AudioElite",
+        "manufacturer": "MusicMakers",
+        "storage_capacity": 37000,
+        "battery_life": 3413,
+        "created_at": "2023-09-01T15:53:53.968Z",
+        "updated_at": "2023-09-02T02:23:28.797Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "cc9a3266-55dc-4bda-840a-d74fe8f2f0b4",
+        "model": "SoundBlaster",
+        "manufacturer": "MelodySound",
+        "storage_capacity": 96789,
+        "battery_life": 44741,
+        "created_at": "2023-09-01T11:06:15.641Z",
+        "updated_at": "2023-09-02T01:08:27.855Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "c21c0d64-b620-4a66-827e-f3af7d8c31a1",
+        "title": "Dreams of Tomorrow",
+        "duration": 89117,
+        "genre": "Pop",
+        "release_date": "2023-09-01T20:05:40.444Z",
+        "created_at": "2023-09-01T11:05:51.564Z",
+        "updated_at": "2023-09-01T06:52:05.824Z",
+        "mp3_player_id": "cc9a3266-55dc-4bda-840a-d74fe8f2f0b4"
+      },
+      {
+        "id": "d5446644-0709-41eb-8009-a780c04f4c9b",
+        "title": "Midnight Serenade",
+        "duration": 62567,
+        "genre": "Rock",
+        "release_date": "2023-09-01T05:48:30.044Z",
+        "created_at": "2023-09-01T18:50:04.684Z",
+        "updated_at": "2023-09-01T15:39:53.998Z",
+        "mp3_player_id": "d0e944ad-f1bb-42a3-95a9-1ee740a2383d"
+      },
+      {
+        "id": "322edd1e-aaab-4112-bcb2-b48227eac09e",
+        "title": "Echoes of the Past",
+        "duration": 97611,
+        "genre": "Jazz",
+        "release_date": "2023-09-02T00:43:55.164Z",
+        "created_at": "2023-09-01T19:59:51.202Z",
+        "updated_at": "2023-09-01T19:48:53.733Z",
+        "mp3_player_id": "2a50de89-7c1c-4057-ab3a-37573dd72652"
+      },
+      {
+        "id": "576bd439-d4bf-4e41-9614-5ffbe5f03adc",
+        "title": "Harmony in Motion",
+        "duration": 39958,
+        "genre": "Country",
+        "release_date": "2023-09-01T05:10:45.096Z",
+        "created_at": "2023-09-01T13:04:30.174Z",
+        "updated_at": "2023-09-01T15:31:44.786Z",
+        "mp3_player_id": "402e4b93-e6d8-4a22-9a26-1253ede00c9f"
+      },
+      {
+        "id": "707821f3-d0b7-48be-94ed-fb388e6ba559",
+        "title": "Melodies of the Heart",
+        "duration": 98606,
+        "genre": "Electronic",
+        "release_date": "2023-09-01T13:13:07.337Z",
+        "created_at": "2023-09-01T11:56:18.778Z",
+        "updated_at": "2023-09-01T11:12:36.208Z",
+        "mp3_player_id": "7dbde580-f8e3-4f1a-b92d-674824b3d2b2"
+      }
+    ],
+    "collection": [
+      {
+        "id": "5f65beb0-9565-48b7-a4bf-09e3015e6977",
+        "name": "Favorites",
+        "creation_date": "2023-09-01T04:43:14.646Z",
+        "last_updated": "2023-09-01T05:20:08.682Z",
+        "total_songs": 18992,
+        "created_at": "2023-09-01T19:24:53.271Z",
+        "updated_at": "2023-09-01T20:49:02.156Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "73880d01-c788-45a8-8f2d-fb3ca2fd988d",
+        "name": "Classics",
+        "creation_date": "2023-09-02T00:36:29.756Z",
+        "last_updated": "2023-09-02T03:17:54.150Z",
+        "total_songs": 5980,
+        "created_at": "2023-09-01T16:59:04.093Z",
+        "updated_at": "2023-09-01T07:12:18.122Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "c32d2914-d85a-46b2-8202-7b07cab1cfe9",
+        "name": "Chill Vibes",
+        "creation_date": "2023-09-01T11:10:15.901Z",
+        "last_updated": "2023-09-01T07:27:47.528Z",
+        "total_songs": 38913,
+        "created_at": "2023-09-01T05:26:50.219Z",
+        "updated_at": "2023-09-01T11:20:56.559Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6d1754d4-1f8c-45f7-9915-07798cd207e3",
+        "name": "Road Trip",
+        "creation_date": "2023-09-01T05:14:57.737Z",
+        "last_updated": "2023-09-01T16:59:35.384Z",
+        "total_songs": 74329,
+        "created_at": "2023-09-01T08:29:53.126Z",
+        "updated_at": "2023-09-01T23:34:23.464Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "fad82b07-e1c2-43f4-af7e-067c649765df",
+        "name": "Party Mix",
+        "creation_date": "2023-09-01T15:54:23.800Z",
+        "last_updated": "2023-09-01T18:32:54.744Z",
+        "total_songs": 23363,
+        "created_at": "2023-09-01T17:19:44.309Z",
+        "updated_at": "2023-09-01T04:02:46.202Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "0d2d646f-4ab1-47b5-800f-001ad561d4f8",
+        "name": "Samantha Johnson",
+        "birth_date": "2023-09-01T23:10:06.601Z",
+        "genre": "Pop",
+        "debut_year": 59609,
+        "created_at": "2023-09-02T02:41:00.353Z",
+        "updated_at": "2023-09-01T17:52:20.111Z",
+        "song_id": "322edd1e-aaab-4112-bcb2-b48227eac09e"
+      },
+      {
+        "id": "e5b0a8da-6d63-42a5-bc10-c1569a007bd4",
+        "name": "Michael Thompson",
+        "birth_date": "2023-09-01T16:30:27.435Z",
+        "genre": "R&B",
+        "debut_year": 96884,
+        "created_at": "2023-09-01T07:17:29.812Z",
+        "updated_at": "2023-09-01T05:45:09.394Z",
+        "song_id": "322edd1e-aaab-4112-bcb2-b48227eac09e"
+      },
+      {
+        "id": "3300e124-49e0-44f7-bf6a-e741e6ea3169",
+        "name": "Emily Davis",
+        "birth_date": "2023-09-01T21:40:46.875Z",
+        "genre": "Indie",
+        "debut_year": 17819,
+        "created_at": "2023-09-01T06:32:20.851Z",
+        "updated_at": "2023-09-01T17:53:37.898Z",
+        "song_id": "322edd1e-aaab-4112-bcb2-b48227eac09e"
+      },
+      {
+        "id": "486ecd6f-a729-4c2a-848e-69a9abe95a45",
+        "name": "Daniel Wilson",
+        "birth_date": "2023-09-01T11:03:17.081Z",
+        "genre": "Hip Hop",
+        "debut_year": 92238,
+        "created_at": "2023-09-01T17:40:59.553Z",
+        "updated_at": "2023-09-01T13:48:51.869Z",
+        "song_id": "c21c0d64-b620-4a66-827e-f3af7d8c31a1"
+      },
+      {
+        "id": "992b39b5-63d2-4733-ba5b-2397a2849f88",
+        "name": "Olivia Roberts",
+        "birth_date": "2023-09-01T13:02:44.815Z",
+        "genre": "Alternative",
+        "debut_year": 18092,
+        "created_at": "2023-09-01T05:55:06.146Z",
+        "updated_at": "2023-09-01T16:58:33.256Z",
+        "song_id": "322edd1e-aaab-4112-bcb2-b48227eac09e"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "96c483f2-012b-4462-8613-6361c0ef5742",
+        "email": "Magnus59@gmail.com",
+        "firstName": "Ethyl",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/217.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "29f7e5ad-828a-4b65-b99c-82e120ebb511",
+        "email": "Maggie59@hotmail.com",
+        "firstName": "Adonis",
+        "lastName": "Franecki-Swaniawski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/59631721",
+        "tenantId": null
+      },
+      {
+        "reference": "e0e67fbb-a89c-48c8-948d-58cf3e48bf61",
+        "email": "Krystina63@yahoo.com",
+        "firstName": "Leo",
+        "lastName": "Pagac",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/39665026",
+        "tenantId": null
+      },
+      {
+        "reference": "7189e118-b270-4fcc-aeb3-6e1b595941f1",
+        "email": "Melissa_Prohaska@hotmail.com",
+        "firstName": "Federico",
+        "lastName": "Walter",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/704.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a40432fd-ca9a-4c86-a8ff-f04ae38eedcf",
+        "email": "Gladyce.Wyman22@hotmail.com",
+        "firstName": "Vivien",
+        "lastName": "Marvin",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "mp3_player": [
+      {
+        "id": "ea32242a-e8c6-4532-8632-b18c5159ab60",
+        "model": "MusicMaster",
+        "manufacturer": "Melody Electronics",
+        "storage_capacity": 67689,
+        "battery_life": 86499,
+        "created_at": "2023-09-01T16:20:54.520Z",
+        "updated_at": "2023-09-02T00:32:20.306Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1293e0d6-2080-4e6d-9b63-199d27f09cb0",
+        "model": "SoundSonic",
+        "manufacturer": "Harmony Systems",
+        "storage_capacity": 82282,
+        "battery_life": 12257,
+        "created_at": "2023-09-01T10:32:47.437Z",
+        "updated_at": "2023-09-01T11:15:48.106Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "0695fb77-7c16-4dd5-8de0-571c8e8f1f59",
+        "model": "BeatBox",
+        "manufacturer": "TuneTech",
+        "storage_capacity": 55210,
+        "battery_life": 35389,
+        "created_at": "2023-09-01T09:31:04.698Z",
+        "updated_at": "2023-09-01T12:55:30.925Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "6ccce0f2-9172-4fa8-b6b3-8d43a1b3c104",
+        "model": "AudioPro",
+        "manufacturer": "SoundWave Corp.",
+        "storage_capacity": 35639,
+        "battery_life": 10064,
+        "created_at": "2023-09-01T16:39:20.759Z",
+        "updated_at": "2023-09-01T11:54:31.105Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "549f9d63-0f19-4fe9-8c65-eb86dcca5fd7",
+        "model": "RhythmMaker",
+        "manufacturer": "AudioTech Industries",
+        "storage_capacity": 33343,
+        "battery_life": 3819,
+        "created_at": "2023-09-02T03:31:23.635Z",
+        "updated_at": "2023-09-01T21:41:04.928Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "song": [
+      {
+        "id": "8e01b0d9-d1db-46f3-b21f-5954b3befd52",
+        "title": "Dreaming of You",
+        "duration": 21768,
+        "genre": "Pop",
+        "release_date": "2023-09-01T22:56:39.933Z",
+        "created_at": "2023-09-01T13:56:59.705Z",
+        "updated_at": "2023-09-01T06:59:23.559Z",
+        "mp3_player_id": "6ccce0f2-9172-4fa8-b6b3-8d43a1b3c104"
+      },
+      {
+        "id": "2e49c59f-d062-47ef-a7b5-5db1104f45b6",
+        "title": "Midnight Serenade",
+        "duration": 50455,
+        "genre": "Rock",
+        "release_date": "2023-09-02T02:30:21.277Z",
+        "created_at": "2023-09-01T22:12:57.041Z",
+        "updated_at": "2023-09-01T21:55:36.238Z",
+        "mp3_player_id": "1293e0d6-2080-4e6d-9b63-199d27f09cb0"
+      },
+      {
+        "id": "7117b4d9-1c50-4398-befe-a58d47c1dd42",
+        "title": "Eternal Love",
+        "duration": 74774,
+        "genre": "R&B",
+        "release_date": "2023-09-01T04:37:13.939Z",
+        "created_at": "2023-09-01T05:27:58.693Z",
+        "updated_at": "2023-09-01T09:46:03.741Z",
+        "mp3_player_id": "6ccce0f2-9172-4fa8-b6b3-8d43a1b3c104"
+      },
+      {
+        "id": "9acbeab9-1d6c-45f7-9e60-8bb970d9d8aa",
+        "title": "Dancing in the Moonlight",
+        "duration": 85737,
+        "genre": "Country",
+        "release_date": "2023-09-01T07:00:21.869Z",
+        "created_at": "2023-09-01T20:17:59.782Z",
+        "updated_at": "2023-09-01T12:26:09.886Z",
+        "mp3_player_id": "6ccce0f2-9172-4fa8-b6b3-8d43a1b3c104"
+      },
+      {
+        "id": "0114c9e4-3301-48a1-82f1-eb5df5eb2575",
+        "title": "Melodies of the Heart",
+        "duration": 73983,
+        "genre": "Jazz",
+        "release_date": "2023-09-01T05:49:48.933Z",
+        "created_at": "2023-09-01T14:24:56.642Z",
+        "updated_at": "2023-09-01T07:40:51.398Z",
+        "mp3_player_id": "6ccce0f2-9172-4fa8-b6b3-8d43a1b3c104"
+      }
+    ],
+    "collection": [
+      {
+        "id": "44ec762d-6b1e-4a19-a1b0-22572bf608b8",
+        "name": "Greatest Hits",
+        "creation_date": "2023-09-01T04:42:58.479Z",
+        "last_updated": "2023-09-01T12:06:15.351Z",
+        "total_songs": 20792,
+        "created_at": "2023-09-02T00:02:08.255Z",
+        "updated_at": "2023-09-01T13:49:55.361Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "ccdc4fdb-dcb1-4d2c-8bc4-7de087e218b2",
+        "name": "Summer Vibes",
+        "creation_date": "2023-09-01T09:24:35.029Z",
+        "last_updated": "2023-09-01T16:44:06.472Z",
+        "total_songs": 57829,
+        "created_at": "2023-09-02T00:45:41.892Z",
+        "updated_at": "2023-09-02T03:04:18.916Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "1d299943-6236-430f-b046-ddfe5a083485",
+        "name": "Chill Out",
+        "creation_date": "2023-09-01T15:50:43.709Z",
+        "last_updated": "2023-09-02T02:35:50.808Z",
+        "total_songs": 72220,
+        "created_at": "2023-09-01T04:48:22.038Z",
+        "updated_at": "2023-09-02T03:09:21.532Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "d20e4ca0-7c1e-4da6-b11b-5b6663a83ce7",
+        "name": "Road Trip Jams",
+        "creation_date": "2023-09-01T07:36:39.440Z",
+        "last_updated": "2023-09-01T15:12:07.700Z",
+        "total_songs": 23161,
+        "created_at": "2023-09-01T05:16:54.732Z",
+        "updated_at": "2023-09-01T06:16:26.874Z",
+        "organization_id": "main_entity_pk"
+      },
+      {
+        "id": "3b430095-77b6-433a-9964-b0002afdaeab",
+        "name": "Throwback Classics",
+        "creation_date": "2023-09-01T09:23:34.095Z",
+        "last_updated": "2023-09-02T03:34:21.343Z",
+        "total_songs": 41078,
+        "created_at": "2023-09-01T23:34:38.397Z",
+        "updated_at": "2023-09-01T11:39:47.169Z",
+        "organization_id": "main_entity_pk"
+      }
+    ],
+    "artist": [
+      {
+        "id": "8312eff4-cbc4-4006-b1fe-495d640ec2dd",
+        "name": "Taylor Swift",
+        "birth_date": "2023-09-01T21:54:05.424Z",
+        "genre": "Pop",
+        "debut_year": 42596,
+        "created_at": "2023-09-01T04:54:35.650Z",
+        "updated_at": "2023-09-01T17:33:17.854Z",
+        "song_id": "8e01b0d9-d1db-46f3-b21f-5954b3befd52"
+      },
+      {
+        "id": "67877028-89bd-483a-9062-258a03168531",
+        "name": "Ed Sheeran",
+        "birth_date": "2023-09-01T09:31:04.040Z",
+        "genre": "Pop/Rock",
+        "debut_year": 38231,
+        "created_at": "2023-09-01T06:12:15.874Z",
+        "updated_at": "2023-09-01T18:13:36.501Z",
+        "song_id": "7117b4d9-1c50-4398-befe-a58d47c1dd42"
+      },
+      {
+        "id": "46dbd299-ad4c-43ff-90df-2da6e5b8b981",
+        "name": "Beyoncé",
+        "birth_date": "2023-09-01T23:07:38.774Z",
+        "genre": "R&B",
+        "debut_year": 91525,
+        "created_at": "2023-09-01T15:43:26.140Z",
+        "updated_at": "2023-09-01T12:13:04.716Z",
+        "song_id": "0114c9e4-3301-48a1-82f1-eb5df5eb2575"
+      },
+      {
+        "id": "85704822-5dae-409b-bc87-6c253a9f2efe",
+        "name": "Adele",
+        "birth_date": "2023-09-01T23:08:07.140Z",
+        "genre": "Soul",
+        "debut_year": 11127,
+        "created_at": "2023-09-02T02:13:12.687Z",
+        "updated_at": "2023-09-01T09:42:40.976Z",
+        "song_id": "9acbeab9-1d6c-45f7-9e60-8bb970d9d8aa"
+      },
+      {
+        "id": "acdd03d6-3d49-4aef-a59a-d96d134f0799",
+        "name": "Bruno Mars",
+        "birth_date": "2023-09-02T00:12:04.330Z",
+        "genre": "Funk",
+        "debut_year": 86270,
+        "created_at": "2023-09-01T04:08:07.452Z",
+        "updated_at": "2023-09-02T01:58:20.148Z",
+        "song_id": "8e01b0d9-d1db-46f3-b21f-5954b3befd52"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "866d2c65-2945-46fa-9775-87fa202f7563",
+        "email": "Elody70@yahoo.com",
+        "firstName": "Zena",
+        "lastName": "Rath",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1115.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bb9f7f39-730f-4d93-9b24-e58bab1d2e5d",
+        "email": "Tracy27@yahoo.com",
+        "firstName": "Dennis",
+        "lastName": "Witting",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/67152700",
+        "tenantId": null
+      },
+      {
+        "reference": "fcb111af-a16a-4415-8a6e-e5657a733cd9",
+        "email": "Dortha_Olson55@yahoo.com",
+        "firstName": "Citlalli",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/771.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9c55be4d-978e-41be-8405-7e3a2226a000",
+        "email": "Constance.Quigley@yahoo.com",
+        "firstName": "Minerva",
+        "lastName": "Lang",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16786899",
+        "tenantId": null
+      },
+      {
+        "reference": "14f8d2f8-f799-4488-85d3-f1928b9d25ca",
+        "email": "Ransom81@hotmail.com",
+        "firstName": "Gail",
+        "lastName": "Schaden",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73421398",
+        "tenantId": null
+      }
+    ]
+  }
+]
